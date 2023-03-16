@@ -1,0 +1,8 @@
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\bin\Debug\Lab1P.exe.config
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\bin\Debug\Lab1P.exe
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\bin\Debug\Lab1P.pdb
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\obj\Debug\Lab1P.csproj.AssemblyReference.cache
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\obj\Debug\Lab1P.csproj.SuggestedBindingRedirects.cache
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\obj\Debug\Lab1P.csproj.CoreCompileInputs.cache
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\obj\Debug\Lab1P.exe
+C:\Users\septi\OneDrive\Escritorio\Lab1P\Lab1P\obj\Debug\Lab1P.pdb
